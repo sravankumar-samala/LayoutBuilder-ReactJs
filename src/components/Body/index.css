@@ -40,16 +40,16 @@
 .content p {
   max-width: 50ch;
 }
+.right-navbar {
+  display: grid;
+  gap: 1em;
+}
 .right-navbar div {
   width: min(100%, 300px);
   aspect-ratio: 1;
   border: 1px solid #64748b;
   display: grid;
   place-items: center;
-  gap: 1em;
-}
-.right-navbar {
-  display: grid;
   gap: 1em;
 }
 
