@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.controller-container {
+  padding-block: 1em;
+  background-color: #475569;
+  color: #f1f5f9;
+}
+.controller-container > h1 {
+  margin-block-start: 0;
+}
+.label-container {
+  margin-block: 0.5em;
+}
+label {
+  cursor: pointer;
+}
+input {
+  margin-right: 0.5em;
+}
