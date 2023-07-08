@@ -40,7 +40,7 @@
 .content p {
   max-width: 50ch;
 }
-.right-navbar > div {
+.right-navbar div {
   width: min(100%, 300px);
   aspect-ratio: 1;
   border: 1px solid #64748b;
