@@ -53,8 +53,8 @@ function RightNavbar() {
   return (
     <div className="right-navbar">
       <h2>Right Navbar</h2>
-      <div className="ad-1">Ad 1</div>
-      <div className="ad-2">Ad 2</div>
+      <div>Ad 1</div>
+      <div>Ad 2</div>
     </div>
   )
 }
