@@ -1,5 +1,5 @@
 // Write your code here
-import ConfigurationContext from '../../context'
+import ConfigurationContext from '../../context/ConfigurationContext'
 import './index.css'
 
 export default function Body() {

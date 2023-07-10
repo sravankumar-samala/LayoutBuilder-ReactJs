@@ -1,6 +1,6 @@
 import {Component} from 'react'
 
-import ConfigurationContext from './context'
+import ConfigurationContext from './context/ConfigurationContext'
 import ConfigurationController from './components/ConfigurationController'
 import Layout from './components/Layout'
 
